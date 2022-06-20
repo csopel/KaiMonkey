@@ -4,6 +4,8 @@
 [![GitHub release](https://img.shields.io/github/release/accurics/KaiMonkey)](https://github.com/accurics/kaimonkey)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/accurics/KaiMonkey/pulls)
 
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/1ee64e24-0b84-4cd4-afea-e15b41431bf1.svg?orgId=746330906266)](https://app.soluble.cloud/repos/details/github.com/csopel/kaimonkey?orgId=746330906266)
+
 KaiMonkey provides vulnerable infrastructure as code (IaC) to help explore and understand common cloud security threats exposed via IaC.
 
 ## Introduction
